@@ -1,0 +1,28 @@
+name: Urban Technical
+favicon: null
+layout_spectrum: 0.7490086613688618
+typography_spectrum: 0.88857781002298
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9582421171944588
+  lightness: 0.10687217605300248
+  saturation: 0.8706265350338072
+  rhythmicContrast: 0.8823539803270251
+purpose: []
